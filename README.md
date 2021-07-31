@@ -1,2 +1,2 @@
 # RaspPiRunner
-Raspberry Pi Shortcuts Menu using JavaFX
+Menu app for app's shortcuts used in Rasperry Pi management.
